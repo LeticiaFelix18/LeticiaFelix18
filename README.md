@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/spider-banner.svg" alt="Banner de Letícia Félix com estética inspirada no Homem-Aranha" width="100%" />
+  <img src="./assets/spider-banner.svg?v=andrew-1" alt="Banner de Letícia Félix com estética inspirada no Homem-Aranha" width="100%" />
 </p>
 
 <p align="center">
