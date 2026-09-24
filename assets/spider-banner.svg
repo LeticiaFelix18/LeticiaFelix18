@@ -36,14 +36,20 @@
     <path d="M1110 0C1118 47 1148 76 1200 95M1035 0C1062 53 1112 82 1200 95" opacity="0.5"/>
   </g>
 
-  <!-- símbolo de aranha abstrato -->
-  <g transform="translate(98 102)" fill="#08111f">
-    <ellipse cx="70" cy="65" rx="24" ry="35"/>
-    <ellipse cx="70" cy="117" rx="31" ry="45"/>
-    <g fill="none" stroke="#08111f" stroke-width="13" stroke-linecap="round">
-      <path d="M52 72L18 49L4 17M49 91L12 88L0 69M50 111L15 130L3 162M54 130L28 166L24 198"/>
-      <path d="M88 72L122 49L136 17M91 91L128 88L140 69M90 111L125 130L137 162M86 130L112 166L116 198"/>
-    </g>
+  <!-- Emblema inspirado no uniforme de The Amazing Spider-Man (Andrew Garfield) -->
+  <g transform="translate(168 178)" fill="#070b13" stroke="#293344" stroke-width="0.7" stroke-linejoin="miter">
+    <!-- Corpo estreito e pontudo -->
+    <path d="M-6-29L-10-17L-8-3L-13 18L-10 44L0 67L10 44L13 18L8-3L10-17L6-29L0-24Z"/>
+    <!-- Quatro pares de pernas alongadas -->
+    <path d="M-7-18L-35-39L-51-85L-48-139L-43-88L-26-46L-3-28Z"/>
+    <path d="M7-18L35-39L51-85L48-139L43-88L26-46L3-28Z"/>
+    <path d="M-9-5L-58-36L-76-82L-78-121L-68-84L-48-43L-4-16Z"/>
+    <path d="M9-5L58-36L76-82L78-121L68-84L48-43L4-16Z"/>
+    <path d="M-11 9L-56 31L-65 89L-57 153L-54 89L-45 40L-6 23Z"/>
+    <path d="M11 9L56 31L65 89L57 153L54 89L45 40L6 23Z"/>
+    <path d="M-12 28L-35 55L-38 113L-25 164L-28 112L-24 62L-6 41Z"/>
+    <path d="M12 28L35 55L38 113L25 164L28 112L24 62L6 41Z"/>
+    <path d="M-3-15L0-20L3-15L2 34L0 47L-2 34Z" fill="#46505d" opacity=".45" stroke="none"/>
   </g>
 
   <!-- cidade -->
