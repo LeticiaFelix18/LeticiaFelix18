@@ -95,19 +95,12 @@ Tenho interesse em **desenvolvimento de software, inteligência artificial, banc
 
 ## 📊 Atividade no GitHub
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=LeticiaFelix18&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=58A6FF&text_color=F5F7FA" alt="Estatísticas do GitHub" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaFelix18&layout=compact&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=E62429&text_color=F5F7FA" alt="Linguagens mais utilizadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeticiaFelix18&bg_color=0D1117&color=58A6FF&line=E62429&point=FFFFFF&area=true&hide_border=true&custom_title=Minha%20atividade%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" width="100%" />
-</p>
+[Veja minhas contribuições e repositórios no GitHub](https://github.com/LeticiaFelix18?tab=repositories).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeticiaFelix18/LeticiaFelix18/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeticiaFelix18/LeticiaFelix18/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação percorrendo o calendário de contribuições" src="https://raw.githubusercontent.com/LeticiaFelix18/LeticiaFelix18/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeticiaFelix18/LeticiaFelix18/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeticiaFelix18/LeticiaFelix18/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="Animação percorrendo o calendário de contribuições" src="https://raw.githubusercontent.com/LeticiaFelix18/LeticiaFelix18/output/github-contribution-grid-snake.svg?v=1" width="100%" />
 </picture>
 
 ---
