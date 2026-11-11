@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LeticiaFelix18/LeticiaFelix18/main/assets/spider-banner.png" alt="Banner de Letícia Félix com estética inspirada no Homem-Aranha" width="100%" />
+  <img src="./assets/spider-banner.webp" alt="Banner animado de Spider-Man: Brand New Day" width="100%" />
 </p>
+
+<h1 align="center">Leticia Dias Araujo Felix Moratori</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
