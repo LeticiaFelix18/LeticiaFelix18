@@ -26,7 +26,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, em busca de
 
 Tenho interesse em **desenvolvimento de software, inteligência artificial, bancos de dados e aplicações web**. Em meus projetos acadêmicos, participo da construção de soluções desde a definição do problema até a implementação e apresentação do produto.
 
-Escolhi o Homem-Aranha para o banner porque me identifico com a forma como ele enfrenta problemas: assume responsabilidade pelas próprias escolhas e aprende com os erros. Nos meus projetos de tecnologia, procuro fazer o mesmo. Quando algo dá errado, busco entender a causa, peço ajuda quando preciso e testo outras soluções até encontrar uma que funcione para quem vai usar.
+O Homem-Aranha está no meu banner porque me inspira a ter coragem diante de problemas que ainda não sei resolver. O que mais admiro nele é a disposição de assumir responsabilidade pelas próprias escolhas e voltar a tentar depois de errar. É essa atitude que levo para a tecnologia: quando um projeto trava, volto ao problema, escuto outras perspectivas e coloco novas ideias à prova. Quero crescer como desenvolvedora criando soluções que façam diferença no dia a dia de quem as usa.
 
 - 🎓 Análise e Desenvolvimento de Sistemas — FIAP
 - 📍 São Paulo, Brasil
